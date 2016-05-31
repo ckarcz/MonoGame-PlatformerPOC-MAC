@@ -1,0 +1,40 @@
+﻿<Properties StartupItem="PlatformerPOC/PlatformerPOC.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlatformerPOC/Domain/ParallaxLayer.cs">
+    <Files>
+      <File FileName="PlatformerPOC/Helpers/CoreCommands.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Helpers/CustomBoundingBox.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Helpers/CustomSpriteSheetDefinition.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Helpers/CustomSpriteSheetInstance.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Helpers/EliminationGameMode.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Helpers/EnumerableExtensions.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Helpers/FPSCounter.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Helpers/GameMode.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Helpers/GameTimer.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Helpers/IDebugCommandHost.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Helpers/IPlayerControlState.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Helpers/KeyboardUtils.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Helpers/PlayerKeyboardState.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Helpers/XNAExtensions.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Helpers/TeamEliminationGameMode.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Events/CheckGameStateHandler.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Messages/CheckGameStateMessage.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Events/GoreFactory.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Events/PowerupPickedUpHandler.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Events/ShootHandler.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Events/SpawnPlayersHandler.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Events/StartGameHandler.cs" Line="73" Column="2" />
+      <File FileName="PlatformerPOC/Editor/Editor.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Domain/BaseGameObject.cs" Line="28" Column="39" />
+      <File FileName="PlatformerPOC/Domain/GameWorld.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Domain/ParallaxLayer.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Domain/Particle.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Domain/Player.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPOC/Domain/Powerup.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
